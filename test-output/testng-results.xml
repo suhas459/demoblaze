@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T18:22:28 IST" name="Default suite" finished-at="2023-03-08T18:23:27 IST" duration-ms="58963">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T18:22:28 IST" name="Default test" finished-at="2023-03-08T18:23:27 IST" duration-ms="58963">
+      <class name="blaze.NewTest">
+        <test-method is-config="true" signature="stepsTo()[pri:0, instance:blaze.NewTest@478190fc]" started-at="2023-03-08T18:22:28 IST" name="stepsTo" finished-at="2023-03-08T18:22:50 IST" duration-ms="22427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stepsTo -->
+        <test-method signature="f()[pri:0, instance:blaze.NewTest@478190fc]" started-at="2023-03-08T18:22:50 IST" name="f" finished-at="2023-03-08T18:23:27 IST" duration-ms="36467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- blaze.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
